@@ -1,31 +1,24 @@
-<h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">Aprilia3 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+<img src="https://telegra.ph/file/4a277a5eb76602b5d47d4.jpg" />
 </p>
 
 <p align="center">
-
-- 👼 My name is Zero YT7
-
-- 🗣️ I am 18 years old 
-
-- 🔭 I am Not programmer
- 
-- 😎 I am like Wibu
+- [`PROFILE CREATOR`](https://webasu-lea27yssy-aprilia3.vercel.app/)
 </p>
 
 ------
 
 # ```BASE SC ZERO YT7```
 <p align="center">
-<a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
-<a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zero-YT7/Base-ZeroYT7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zero-YT7/Base-ZeroYT7?color=red&style=flat-square"></a>
-<a href="https://github.com/Zero-YT7/Base-ZeroYT7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zero-YT7/Base-ZeroYT7?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Zero-YT7/Base-ZeroYT7"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/ZeroYT7/Base-ZeroYT7/"><img title="Size" src="https://img.shields.io/github/repo-size/Zero-YT7/Base-ZeroYT7?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZero-YT7%2FBase-ZeroYT7&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Zero-YT7/Base-ZeroYT7/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Aprilia3/followers"><img title="Followers" src="https://img.shields.io/github/followers/Aprilia3?color=red&style=flat-square"></a>
+<a href="https://github.com/Aprilia3/Loli-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aprilia3/Loli-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aprilia3/Loli-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aprilia3/Loli-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Aprilia3/Loli-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aprilia3/Loli-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aprilia3/Loli-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Aprilia3/Loli-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Aprilia3/Loli-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAprilia3%2FLoli-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Aprilia3/Loli-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -34,19 +27,22 @@
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/ZeroYT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
-<a href="https://tiktok.com/@_zeroyt7"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
+<a href="https://instagram.com/Aprilia3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/628811929177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/c/BOTINDO"><img src="https://img.shields.io/badge/YouTube BOT INDO-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://tiktok.com/@prii"><img src="https://img.shields.io/badge/Tiktok prii-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@prii" /></a>
 </p>
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`GOPAY`](https://tinyurl.com/ycnybypd)
+- [`DANA`](https://tinyurl.com/ycnybypd)
+- [`OVO`](https://tinyurl.com/ycnybypd)
+- [`ALL PAYMENT`](https://tinyurl.com/ycnybypd)
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`]()
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -64,15 +60,15 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/Aprilia3/Loli-MD
+cd Loli-MD
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd BaseMD-ZeroYT7
+git clone https://github.com/Aprilia3/Loli-MD
+cd Loli-MD
 npm install
 npm start
 ```
@@ -84,8 +80,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/Aprilia3/Loli-MD
+cd Loli-MD
 npm install
 npm start
 ```
